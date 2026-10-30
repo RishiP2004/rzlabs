@@ -18,7 +18,7 @@ const mono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'RZ Labs — We build our own apps',
   description:
-    'RZ Labs is a small independent studio that builds its own apps. Makers of Pop Clean.',
+    'RZ Labs is a small independent studio that builds its own apps. Makers of PopClean.',
   generator: 'v0.app',
   icons: {
     icon: [
