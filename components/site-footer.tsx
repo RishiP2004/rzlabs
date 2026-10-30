@@ -18,7 +18,7 @@ export function SiteFooter() {
             rel="noopener noreferrer"
             className="text-sm text-muted-foreground transition-colors hover:text-foreground"
           >
-            Pop Clean
+            PopClean
           </Link>
           <Link href="mailto:contact@rzlabs.info" className="text-sm text-muted-foreground transition-colors hover:text-foreground">
             contact@rzlabs.info

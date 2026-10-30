@@ -8,7 +8,7 @@ export function Products() {
       <div className="mx-auto max-w-2xl text-center">
         <p className="text-sm font-bold uppercase tracking-widest text-primary">Our app</p>
         <h2 className="mt-3 text-balance text-3xl font-extrabold tracking-tight sm:text-4xl">
-          Meet Pop Clean.
+          Meet PopClean.
         </h2>
       </div>
 
@@ -18,13 +18,13 @@ export function Products() {
             <div className="flex items-center gap-3">
               <Image
                 src="/images/pop-clean-logo.png"
-                alt="Pop Clean app icon"
+                alt="PopClean app icon"
                 width={48}
                 height={48}
                 className="h-12 w-12 rounded-2xl border border-border"
               />
               <div>
-                <h3 className="text-xl font-bold">Pop Clean</h3>
+                <h3 className="text-xl font-bold">PopClean</h3>
                 <p className="text-sm text-muted-foreground">Smart phone cleaner &amp; storage optimizer</p>
               </div>
             </div>
@@ -60,12 +60,12 @@ export function Products() {
             <div className="flex h-56 w-44 flex-col items-center justify-center rounded-[2rem] border-4 border-background bg-background shadow-xl">
               <Image
                 src="/images/pop-clean-logo.png"
-                alt="Pop Clean app icon"
+                alt="PopClean app icon"
                 width={64}
                 height={64}
                 className="h-16 w-16 rounded-2xl"
               />
-              <p className="mt-4 text-sm font-bold">Pop Clean</p>
+              <p className="mt-4 text-sm font-bold">PopClean</p>
               <p className="mt-1 text-xs text-muted-foreground">5GB+ freed</p>
             </div>
           </div>
